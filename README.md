@@ -1,7 +1,5 @@
 # My First Coding Assignment
 
-# My First Coding Assignment
-
 ![My Personality](spongebob.gif)
 
 
